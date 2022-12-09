@@ -4,7 +4,6 @@ import streamlit as st
 import folium
 import pandas as pd
 import numpy as np
-import codecs
 import os
 from unidecode import unidecode
 
